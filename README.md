@@ -1,2 +1,2 @@
 # Capstone-bootcamp
-This is a special project make to learn more about front-end
+This is a capstone from the course: https://www.udemy.com/course/the-complete-web-development-bootcamp
